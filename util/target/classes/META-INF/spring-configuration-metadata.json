@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "config",
+      "type": "com.lzqs.zhangyushu.filepathUtil.ConfigBeanProp",
+      "sourceType": "com.lzqs.zhangyushu.filepathUtil.ConfigBeanProp"
+    }
+  ],
+  "properties": [
+    {
+      "name": "config.image-path",
+      "type": "java.lang.String",
+      "sourceType": "com.lzqs.zhangyushu.filepathUtil.ConfigBeanProp"
+    },
+    {
+      "name": "config.image-url",
+      "type": "java.lang.String",
+      "sourceType": "com.lzqs.zhangyushu.filepathUtil.ConfigBeanProp"
+    },
+    {
+      "name": "config.pdf-path",
+      "type": "java.lang.String",
+      "sourceType": "com.lzqs.zhangyushu.filepathUtil.ConfigBeanProp"
+    },
+    {
+      "name": "config.pdf-url",
+      "type": "java.lang.String",
+      "sourceType": "com.lzqs.zhangyushu.filepathUtil.ConfigBeanProp"
+    }
+  ],
+  "hints": []
+}
